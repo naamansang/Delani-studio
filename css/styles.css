@@ -7,7 +7,7 @@
 @import url('https://fonts.googleapis.com/css?family=Amarante|Elsie|Paprika&display=swap');
 
 /* introduction */
-#intro{
+#introduction{
     background-image: url('../assets/backgrounds/h_img.jpg');
     background-size: cover;
     background-repeat: no-repeat;
